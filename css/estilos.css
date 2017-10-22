@@ -1,0 +1,36 @@
+
+.fila3{
+	background: #F4F1F1;
+}
+
+.main0{
+	background: black;
+	color: white;
+}
+
+.main1 {
+	height: 100%;
+	padding-top: 1%;
+}
+
+.main2 {
+	background: green;
+	height: 300px;
+}
+
+.main3 {
+	background: yellow;
+	height: 300px;
+}
+
+.flotante{
+	background: #04E2D5;
+	padding-left: 5%;
+	margin-right: 1%; 
+}
+
+.letra{
+	color: white;
+	font-size: 130%
+}
+
